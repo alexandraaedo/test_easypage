@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Alexandra Aedo's Page</title>
+</head>
+<body>
+	<h1>Welcome to Alexandra Aedo's page</h1>
+	<p>Hi there!</p>
+	<p>Welcome to my page! I'm Alexandra Aedo, and I'm thrilled to have you here.</p>
+	<p>This page is a work in progress, but I'm excited to share my thoughts, projects, and experiences with you.</p>
+	<p>Stay tuned for updates, and thanks for visiting!</p>
+	<p id="contact">Contact me: <a href="mailto:alexandra.aedo@example.com">alexandra.aedo@example.com</a></p>
+	<script>
+		// You can add JavaScript code here to dynamically update the page or add interactive elements
+	</script>
+</body>
+</html>
